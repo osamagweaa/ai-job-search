@@ -1,0 +1,15 @@
+name: ai-job-search-assistant
+description: Personal job application assistant — search Danish job portals, evaluate fit, track applications, and identify skill gaps.
+version: "1.0"
+skills_dir: .openclaw/skills
+
+tools:
+  bash:
+    enabled: true
+    allowed:
+      - "bun run .agents/skills/jobindex-search/cli/src/cli.ts *"
+      - "bun run .agents/skills/jobdanmark-search/cli/src/cli.ts *"
+      - "bun run .agents/skills/jobbank-search/cli/src/cli.ts *"
+      - "bun run .agents/skills/jobnet-search/cli/src/cli.ts *"
+      - "python3 salary_lookup.py *"
+      - "python3 -c *"
