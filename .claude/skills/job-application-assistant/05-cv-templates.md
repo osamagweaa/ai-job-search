@@ -105,12 +105,11 @@ Write 5-7 lines that function as an "elevator pitch": a concise, compelling intr
 
 **Create 2-3 profile statement templates for your main role types:**
 
-<!-- SETUP: These are populated based on your background -->
-**For [YOUR_PRIMARY_ROLE_TYPE] roles:**
-> [YOUR_PROFILE_STATEMENT_TEMPLATE_1]
+**For Account Executive / Senior SDR roles (cloud infra, security, AI):**
+> Bilingual (Arabic/English/Spanish) sales professional currently driving 160% to target as a Strategic BDR for Google Cloud's MENA market via Teleperformance, with a track record of 150-200% KPI attainment across four consecutive quarters. Combines consultative, relationship-led selling with fast decision-making under ambiguity. Uniquely positioned to sell cloud and AI infrastructure to industrial and logistics buyers, having spent years inside Energy Logistics (Eni) and Cold-Chain Supply Chain (Central Fruit) operations before moving into tech, so the conversation is grounded in the buyer's operational reality rather than a generic software pitch.
 
-**For [YOUR_SECONDARY_ROLE_TYPE] roles:**
-> [YOUR_PROFILE_STATEMENT_TEMPLATE_2]
+**For logtech / supply-chain SaaS roles:**
+> Account Executive with direct operational experience in cold-chain and international trade logistics (managed a ~$12M reefer container portfolio at Central Fruit Company) now applying that domain fluency to cloud and SaaS sales at Google Cloud. Speaks the language of the supply-chain buyer (cost of goods sold, operational uptime, on-time delivery) while running a modern outbound motion, including AI-assisted prospecting workflows that lifted pipeline efficiency by 40%.
 
 ### Core Competencies / Skills Section (Best Practice)
 Reorder and emphasize based on the role. Use bold category labels.

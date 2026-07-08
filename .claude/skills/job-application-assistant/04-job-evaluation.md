@@ -16,9 +16,9 @@ How well do the required/preferred skills align with the candidate's capabilitie
 | 40-59 | Partial match, significant upskilling needed |
 | 0-39 | Fundamental mismatch |
 
-**Strong match areas:** [YOUR_PRIMARY_SKILLS]
-**Moderate match areas:** [YOUR_SECONDARY_SKILLS]
-**Weak match areas:** [SKILLS_YOU_LACK]
+**Strong match areas:** Consultative selling, C-level/founder negotiation, outbound prospecting (SDR/BDR motions), SaaS/IaaS/cloud infrastructure sales, MENA/Arabic-market go-to-market, Salesforce/ZoomInfo/Sales Navigator tooling
+**Moderate match areas:** Full-cycle enterprise deal closing as a title-of-record AE, AI/agent-product sales specifically (vs. cloud infra generally), supply chain SaaS domain knowledge (has adjacent logistics/cold-chain experience, not SaaS-side)
+**Weak match areas:** Deep technical/product engineering roles, roles requiring non-sales technical delivery (e.g., solutions engineering, implementation)
 
 ### 2. Experience Match (0-100)
 Does work history align with what they're looking for?
@@ -30,9 +30,9 @@ Does work history align with what they're looking for?
 | 40-59 | Adjacent experience, would need to make the case |
 | 0-39 | Unrelated experience |
 
-**Strong:** [YOUR_DIRECT_EXPERIENCE_DOMAINS]
-**Moderate:** [YOUR_ADJACENT_EXPERIENCE]
-**Entry-level:** [ROLES_WITH_LIMITED_EXPERIENCE]
+**Strong:** Senior SDR / Strategic BDR roles, Arabic-market or MENA-region sales roles, SMB/Mid-Market cloud or SaaS sales, roles emphasizing outbound pipeline generation
+**Moderate:** Full-cycle Account Executive roles (has AE-titled experience at Central Fruit plus proven pipeline generation and quota attainment at Google Cloud, but not yet a title-of-record cloud/SaaS AE closing complex deals solo)
+**Entry-level:** Enterprise AE roles requiring multi-year track record of solo-closed 6-figure ARR deals in SaaS specifically
 
 ### 3. Behavioral/Culture Fit (0-100)
 Does the role and company culture match the behavioral profile?
@@ -47,9 +47,9 @@ Does the role and company culture match the behavioral profile?
 **Red flags to research:** Department disorganization, work dominated by maintenance over development, poor chemistry with leadership, culture mismatches. Check reviews, media coverage, LinkedIn connections, and network contacts for insider perspective.
 
 ### 4. Location & Logistics (Pass/Fail + Notes)
-- Within commute range: PASS
-- Remote with occasional office: PASS
-- Requires relocation: FAIL (deal-breaker)
+- Based in Barcelona, Spain, or hybrid/onsite roles elsewhere in Spain where the employer covers relocation costs: PASS
+- Fully remote role: PASS only if it comes with a Spanish indefinite contract, OR an OTE of 70K+ (otherwise FLAG)
+- Requires relocation outside Spain within the next 4 years: FAIL (hard deal-breaker)
 - Frequent international travel: FLAG (discuss with user)
 
 ### 5. Career Alignment & Motivation (0-100)
@@ -63,19 +63,25 @@ Does this role advance career goals and contain tasks that energize?
 | 0-39 | Dead end or backwards step |
 
 **Career goals:**
-- [YOUR_CAREER_GOAL_1]
-- [YOUR_CAREER_GOAL_2]
-- [YOUR_CAREER_GOAL_3]
+- Move into (or firmly establish as) an Account Executive role at a logtech, cloud infrastructure, security, or AI agent company
+- Target companies: Anthropic, Palo Alto Networks, Flexport, and comparable competitors in those spaces
+- Secure high pay with uncapped OTE (baseline 50K+; remote-only offers need 70K+ or a Spanish indefinite contract)
 
 **Motivation filter:** Evaluate not just whether you *can* do the tasks, but whether the tasks will *energize* you. Consider:
-- Tasks that energize: [YOUR_ENERGIZING_TASKS]
-- Tasks that drain: [YOUR_DRAINING_TASKS]
-- Non-task factors: leadership style, department culture, company values, degree of autonomy
+- Tasks that energize: consultative outbound prospecting into new/underserved markets (especially Arabic-speaking), C-level and founder conversations, structured high-velocity sales motions, environments with visible recognition (leaderboards, mentor tracks, president's club)
+- Tasks that drain: micromanagement, working with limited resources, chaotic/undefined internal systems, roles with no recognition for performance, rigid close-minded traditional workflows that block creative deal structuring
+- Non-task factors: company average tenure (a deal-breaker signal - see below), leadership style (coaching over controlling), degree of autonomy within a structured framework
 
 **Life situation alignment:** Consider personal constraints:
-- **Security**: [YOUR_FINANCIAL_SITUATION_CONTEXT]
-- **Flexibility**: [YOUR_SCHEDULE_CONSTRAINTS]
-- **Professional development**: [YOUR_GROWTH_PRIORITIES]
+- **Security**: Currently employed (Strategic BDR, Google Cloud via Teleperformance) and performing well (160% to target) - can afford to be selective, not searching out of urgency
+- **Flexibility**: Based in Barcelona; not open to relocating outside Spain for the next 4 years; open to relocating to another Spanish city if the employer covers relocation costs; open to full remote only with a Spanish indefinite contract or 70K+ OTE
+- **Professional development**: Seeking the AE title/track upgrade from BDR, with uncapped earning upside as the primary growth priority
+
+### Deal-Breakers (hard filters - apply before scoring)
+Flag and stop evaluation (recommend skip regardless of score) if:
+- **Average employee tenure under 2 years** at the company (signal of high turnover/churn - research via LinkedIn "how long employees stay" or Glassdoor)
+- The company is complicit in, or provides material support for, actions against the Palestinian people, or is founded/funded by individuals with a public Zionist political stance
+- The role would require relocating outside Spain within the next 4 years
 
 ### 6. Salary Benchmark (Optional)
 

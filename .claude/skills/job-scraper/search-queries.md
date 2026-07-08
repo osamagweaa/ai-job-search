@@ -1,70 +1,73 @@
 # Search Queries for Job Scraper
 
-<!-- SETUP: Customize these queries based on your skills, target roles, and location -->
-
 ## Search Sites
 
-Primary (Danish job market):
-- **jobindex.dk** - largest Danish job board
-- **linkedin.com/jobs** - LinkedIn job listings (filter: Denmark / your city)
-- **karriere.dk** - IDA's job board (engineering/science roles)
-- **jobfinder.dk** - another major Danish job board
-- **akademikernes.dk** - academic union job board
+Osamah is based in Barcelona, Spain - the built-in Danish job-portal CLI tools (Jobindex, Jobbank, Jobdanmark, Jobnet) are not relevant here and should be skipped. Use instead:
 
-Secondary (company career pages via Google):
-- Direct Google searches with `site:` filters for known target companies
+Primary:
+- **linkedin.com/jobs** - filter to Spain / Barcelona / Remote-Europe
+- Direct company career pages for target companies (Anthropic, Palo Alto Networks, Flexport, and competitors) via Google `site:` searches
+- **wellfound.com** (formerly AngelList Talent) - strong for AI/startup sales roles
+- **builtin.com** - tech company sales roles, filterable by city/remote
+
+Secondary:
+- General Google searches combining role + market + location terms
 
 ## Query Categories
 
-Queries are grouped by priority. Each query should be combined with your location terms (e.g. "Copenhagen", "Sjælland", "Hovedstaden") where the site supports it.
+### Priority 1: Account Executive / Senior SDR, Cloud Infra & AI
 
-### Priority 1: [YOUR_PRIMARY_ROLE_TYPE]
-
-These match your strongest and most desired career direction.
+Osamah's strongest and most desired direction: AE-track roles at cloud infrastructure, security, or AI agent companies, ideally selling into the Arabic-speaking/MENA market.
 
 ```
-site:jobindex.dk "[YOUR_PRIMARY_JOB_TITLE]" [YOUR_CITY]
-site:jobindex.dk "[YOUR_KEY_SKILL]" [YOUR_CITY]
-site:linkedin.com/jobs "[YOUR_PRIMARY_JOB_TITLE]" [YOUR_COUNTRY]
+site:linkedin.com/jobs "Account Executive" "Arabic" (Barcelona OR Spain OR Remote)
+site:linkedin.com/jobs "Senior SDR" OR "Strategic BDR" "MENA" (Barcelona OR remote)
+site:linkedin.com/jobs "Account Executive" "SMB" OR "Mid-Market" Arabic Spain
+"Account Executive" Arabic market Anthropic OR "Palo Alto Networks" OR Flexport
 ```
 
-### Priority 2: [YOUR_DOMAIN_EXPERTISE]
+### Priority 2: Logtech / Supply Chain SaaS
 
-These match your domain expertise.
-
-```
-site:jobindex.dk [YOUR_DOMAIN_KEYWORD_1] [YOUR_CITY] OR [YOUR_REGION]
-site:jobindex.dk [YOUR_DOMAIN_KEYWORD_2] [YOUR_COUNTRY]
-site:linkedin.com/jobs [YOUR_DOMAIN_KEYWORD_1] [YOUR_CITY] [YOUR_COUNTRY]
-```
-
-### Priority 3: [YOUR_ADJACENT_ROLE_TYPE]
-
-Adjacent roles you could pivot into.
+Domain expertise from Central Fruit (cold-chain/international trade) and Eni (energy logistics).
 
 ```
-site:jobindex.dk "[YOUR_ADJACENT_TITLE_1]" [YOUR_KEY_SKILL] [YOUR_CITY]
-site:jobindex.dk "[YOUR_ADJACENT_TITLE_2]" [YOUR_KEY_SKILL] [YOUR_CITY]
+site:linkedin.com/jobs "Account Executive" logistics OR "supply chain" SaaS Spain
+site:linkedin.com/jobs "Account Executive" Flexport OR "supply chain SaaS" Arabic
+"Account Executive" supply chain SaaS Barcelona OR remote Europe
 ```
 
-### Priority 4: Broader Technical / Consulting
+### Priority 3: Adjacent Roles - Security / Cloud Infra Broader
 
-Wider net for general technical roles.
+Adjacent role types Osamah could pivot into beyond the exact AE title.
 
 ```
-site:jobindex.dk [YOUR_KEY_SKILL] developer [YOUR_CITY]
-site:linkedin.com/jobs "[YOUR_KEY_SKILL] developer" [YOUR_CITY]
-site:jobindex.dk "technical consultant" [YOUR_DOMAIN] [YOUR_CITY]
+site:linkedin.com/jobs "Enterprise SDR" OR "Business Development Representative" cloud security Arabic
+site:linkedin.com/jobs "Sales Development Representative" AI agent Barcelona OR remote
+"Strategic Account Executive" cybersecurity OR "cloud security" MENA
+```
+
+### Priority 4: Broader Sales / Wider Net
+
+Wider net across tech sales roles matching the bilingual Arabic/Spanish/English profile.
+
+```
+site:linkedin.com/jobs "Account Executive" bilingual Arabic Spain
+site:linkedin.com/jobs "Business Development" MENA Barcelona
+"Account Executive" OR "Senior SDR" uncapped OTE Spain OR remote Europe
 ```
 
 ## Location Filter
 
-When evaluating results, verify the job location is within reasonable commute distance from your home. Define acceptable areas:
-- [YOUR_CITY] and surrounding areas
-- [ACCEPTABLE_AREA_1]
-- [ACCEPTABLE_AREA_2]
-- [BORDERLINE_AREA] (borderline - ~X min by transit)
-- [TOO_FAR_AREA] (too far)
+- **Ideal:** Barcelona, Spain (no relocation needed)
+- **Acceptable:** Any other Spanish city, if the employer covers relocation costs
+- **Borderline:** Fully remote roles based elsewhere in Spain/EU, only if they offer a Spanish indefinite contract OR an OTE of 70K+
+- **Too far / excluded:** Any role requiring relocation outside Spain within the next 4 years - hard deal-breaker, exclude regardless of other fit
+
+## Deal-Breaker Screen (apply during scraping, not just evaluation)
+
+Flag or exclude postings/companies where discoverable signals suggest:
+- Average employee tenure under 2 years (check LinkedIn "insights" tab or Glassdoor if accessible)
+- Public involvement in or funding tied to actions against the Palestinian people, or founders with a public Zionist political stance
 
 ## Date Filter
 
@@ -73,4 +76,5 @@ Only include jobs posted within the last 14 days, or with an application deadlin
 ## Adapting Queries
 
 If the user specifies a focus area, select queries from the matching category and also generate 2-3 custom queries for that focus. For example:
-- "/scrape [focus_area]" -> relevant category queries + custom focus-specific queries
+- "/scrape flexport" -> Priority 2 queries + custom Flexport-specific searches
+- "/scrape anthropic" -> Priority 1 queries + custom Anthropic-specific searches
