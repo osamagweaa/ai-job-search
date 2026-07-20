@@ -1,0 +1,68 @@
+{
+  "seen": {
+    "https://careers.criteo.com/en/jobs/r19424/account-strategist-mea-arabic-speaker/": {
+      "title": "Account Strategist MEA - Arabic Speaker",
+      "company": "Criteo",
+      "url": "https://careers.criteo.com/en/jobs/r19424/account-strategist-mea-arabic-speaker/",
+      "first_seen": "2026-07-20",
+      "fit": "high",
+      "status": "new"
+    },
+    "https://jobs.gartner.com/jobs/job/77966-sales-account-executive-arabic-speaking/": {
+      "title": "Sales Account Executive (Arabic Speaking)",
+      "company": "Gartner",
+      "url": "https://jobs.gartner.com/jobs/job/77966-sales-account-executive-arabic-speaking/",
+      "first_seen": "2026-07-20",
+      "fit": "high",
+      "status": "new"
+    },
+    "https://www.mongodb.com/careers/jobs/6627129": {
+      "title": "Account Development Representative, Arabic Speaking (MEA)",
+      "company": "MongoDB",
+      "url": "https://www.mongodb.com/careers/jobs/6627129",
+      "first_seen": "2026-07-20",
+      "fit": "high",
+      "status": "skipped-closed"
+    },
+    "https://es.linkedin.com/jobs/view/enterprise-account-executive-spain-catalan-and-spanish-speaker-barcelona-or-madrid-based-at-zoom-4299161902": {
+      "title": "Enterprise Account Executive - Spain (Catalan and Spanish speaker)",
+      "company": "Zoom",
+      "url": "https://es.linkedin.com/jobs/view/enterprise-account-executive-spain-catalan-and-spanish-speaker-barcelona-or-madrid-based-at-zoom-4299161902",
+      "first_seen": "2026-07-20",
+      "fit": "medium",
+      "status": "new"
+    },
+    "https://payhawk.com/careers/4367152101/account-executive-mid-market-espana": {
+      "title": "Account Executive Mid Market Espana",
+      "company": "Payhawk",
+      "url": "https://payhawk.com/careers/4367152101/account-executive-mid-market-espana",
+      "first_seen": "2026-07-20",
+      "fit": "medium",
+      "status": "new"
+    },
+    "https://es.linkedin.com/jobs/view/account-executive-spain-barcelona-at-station-f-4370655933": {
+      "title": "Account Executive Spain - Barcelona",
+      "company": "Station F (listing - company unclear)",
+      "url": "https://es.linkedin.com/jobs/view/account-executive-spain-barcelona-at-station-f-4370655933",
+      "first_seen": "2026-07-20",
+      "fit": "low",
+      "status": "new"
+    },
+    "https://es.trabajo.org/oferta-2635-4a4094293734c1de3cad95e4aae9132d": {
+      "title": "Account Executive (Remote, Barcelona)",
+      "company": "EcoVadis",
+      "url": "https://es.trabajo.org/oferta-2635-4a4094293734c1de3cad95e4aae9132d",
+      "first_seen": "2026-07-20",
+      "fit": "high",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs/view/account-executive-supply-chain-saas-pe-backed-at-one-eighty-collective-4239732858": {
+      "title": "Account Executive | Supply Chain SaaS | PE-Backed",
+      "company": "One Eighty Collective (recruiting agency listing)",
+      "url": "https://www.linkedin.com/jobs/view/account-executive-supply-chain-saas-pe-backed-at-one-eighty-collective-4239732858",
+      "first_seen": "2026-07-20",
+      "fit": "medium",
+      "status": "new"
+    }
+  }
+}
