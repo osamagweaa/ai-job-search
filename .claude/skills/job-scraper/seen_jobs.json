@@ -14,7 +14,7 @@
       "url": "https://jobs.gartner.com/jobs/job/77966-sales-account-executive-arabic-speaking/",
       "first_seen": "2026-07-20",
       "fit": "high",
-      "status": "new"
+      "status": "ruled-out-by-user"
     },
     "https://www.mongodb.com/careers/jobs/6627129": {
       "title": "Account Development Representative, Arabic Speaking (MEA)",
@@ -63,6 +63,73 @@
       "first_seen": "2026-07-20",
       "fit": "medium",
       "status": "new"
+    },
+    "https://uk.linkedin.com/jobs/view/enterprise-account-executive-middle-east-at-databricks-3775266219": {
+      "title": "Enterprise Account Executive, Middle East",
+      "company": "Databricks",
+      "url": "https://uk.linkedin.com/jobs/view/enterprise-account-executive-middle-east-at-databricks-3775266219",
+      "first_seen": "2026-07-20",
+      "fit": "high",
+      "status": "new"
+    },
+    "https://tn.linkedin.com/jobs/view/account-executive-mena-region-at-sortlist-4211469784": {
+      "title": "Account Executive (MENA Region)",
+      "company": "Sortlist",
+      "url": "https://tn.linkedin.com/jobs/view/account-executive-mena-region-at-sortlist-4211469784",
+      "first_seen": "2026-07-20",
+      "fit": "medium",
+      "status": "new"
+    },
+    "https://www.linkedin.com/jobs/view/sales-account-executive-mena-at-horizons-4226385992": {
+      "title": "Sales Account Executive, MENA",
+      "company": "Horizons",
+      "url": "https://www.linkedin.com/jobs/view/sales-account-executive-mena-at-horizons-4226385992",
+      "first_seen": "2026-07-20",
+      "fit": "medium",
+      "status": "new"
+    },
+    "https://sa.linkedin.com/jobs/view/account-executive-at-discovered-mena-4300657321": {
+      "title": "Account Executive",
+      "company": "Discovered MENA",
+      "url": "https://sa.linkedin.com/jobs/view/account-executive-at-discovered-mena-4300657321",
+      "first_seen": "2026-07-20",
+      "fit": "medium",
+      "status": "new"
+    },
+    "https://sa.linkedin.com/jobs/view/enterprise-account-executive-at-discovered-mena-4373110524": {
+      "title": "Enterprise Account Executive",
+      "company": "Discovered MENA",
+      "url": "https://sa.linkedin.com/jobs/view/enterprise-account-executive-at-discovered-mena-4373110524",
+      "first_seen": "2026-07-20",
+      "fit": "medium",
+      "status": "new"
+    },
+    "https://careers.salesforce.com/en/jobs/jr315569/account-executive-bahrain-kuwait/": {
+      "title": "Account Executive - Bahrain & Kuwait",
+      "company": "Salesforce",
+      "url": "https://careers.salesforce.com/en/jobs/jr315569/account-executive-bahrain-kuwait/",
+      "first_seen": "2026-07-20",
+      "fit": "medium",
+      "status": "new",
+      "note": "Dubai-based per listing - likely requires relocation, conflicts with Spain-only constraint unless remote confirmed"
+    },
+    "https://careers.salesforce.com/en/jobs/jr295592/account-executive-saudi-arabia/": {
+      "title": "Account Executive - Saudi Arabia",
+      "company": "Salesforce",
+      "url": "https://careers.salesforce.com/en/jobs/jr295592/account-executive-saudi-arabia/",
+      "first_seen": "2026-07-20",
+      "fit": "medium",
+      "status": "new",
+      "note": "Dubai-based per listing - likely requires relocation, conflicts with Spain-only constraint unless remote confirmed"
+    },
+    "https://careers.salesforce.com/en/jobs/jr331731/service-cloud-account-executive-middle-east/": {
+      "title": "Service Cloud Account Executive - Middle East",
+      "company": "Salesforce",
+      "url": "https://careers.salesforce.com/en/jobs/jr331731/service-cloud-account-executive-middle-east/",
+      "first_seen": "2026-07-20",
+      "fit": "medium",
+      "status": "new",
+      "note": "Dubai-based per listing - likely requires relocation, conflicts with Spain-only constraint unless remote confirmed"
     }
   }
 }
