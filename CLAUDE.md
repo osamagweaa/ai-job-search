@@ -1,10 +1,7 @@
-# Job Application Assistant for [YOUR_NAME]
-
-<!-- SETUP: This file is populated by running /setup -->
-<!-- After running /setup, all [PLACEHOLDER] tokens will be replaced with your actual information -->
+# Job Application Assistant for Osamah Iqweeah
 
 ## Role
-This repo is a job application workspace. Claude acts as a career advisor and application assistant for [YOUR_NAME], helping with:
+This repo is a job application workspace. Claude acts as a career advisor and application assistant for Osamah Iqweeah, helping with:
 1. **Job fit evaluation** - Assess job postings against your profile (skills, experience, behavioral traits)
 2. **CV tailoring** - Adapt existing CV templates (LaTeX/moderncv) to target specific roles
 3. **Cover letter writing** - Draft targeted cover letters using existing templates (LaTeX)
@@ -13,68 +10,65 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 
 ## Candidate Profile
 
-<!-- This section is auto-populated by /setup. You can also fill it in manually. -->
-
 ### Identity
-- **Name:** [YOUR_NAME]
-- **Location:** [YOUR_CITY], [YOUR_COUNTRY] ([YOUR_COMMUTE_CONSTRAINTS])
-- **Languages:** [YOUR_LANGUAGES]
-- **Status:** [YOUR_EMPLOYMENT_STATUS]
-- **LinkedIn headline:** "[YOUR_LINKEDIN_HEADLINE]"
+- **Name:** Osamah Iqweeah
+- **Location:** Barcelona, Spain (not open to relocating outside Spain for the next 4 years; open to relocating to another Spanish city if relocation costs are covered; open to full remote only with a Spanish indefinite contract or 70K+ OTE)
+- **Languages:** Arabic (Native), English (Fluent), Spanish (Fluent)
+- **Status:** Employed - Strategic BDR at Google Cloud (via Teleperformance), open to new opportunities
+- **LinkedIn headline:** (not yet provided)
 
 ### Education
-<!-- List your degrees, most recent first -->
-- **[DEGREE_LEVEL] in [FIELD]** ([YEAR_START]-[YEAR_END]) - [INSTITUTION]
-  - Thesis: "[THESIS_TITLE]"
-  - Topics: [KEY_TOPICS]
+- **Bachelor of E-Commerce** (2008-2011) - Tripoli University
 
 ### Professional Experience
-<!-- List your roles, most recent first -->
-- **[JOB_TITLE]** ([START_DATE] - [END_DATE]) - **[COMPANY]** ([LOCATION])
-  - [KEY_RESPONSIBILITY_1]
-  - [KEY_RESPONSIBILITY_2]
-  - [KEY_ACHIEVEMENT]
+- **Strategic BDR (MENA Market)** (NOV 2024 - Present) - **Google Cloud (via Teleperformance)** (Barcelona, Spain)
+  - Generated 200% of Q4 revenue goal targeting high-value infrastructure migrations
+  - Outbound outreach for Digital Native SMBs, discovery through technical validation
+  - Built AI-driven prospecting workflows, +40% pipeline efficiency
+- **Account Executive, International Trade** (MAR 2020 - JUN 2024) - **Central Fruit Company** (Ecuador account)
+  - Managed ~$12M annual portfolio, 40 reefer containers/month, cold-chain integrity
+  - Designed "Conditional Discount" pricing converting ad-hoc clients to long-term partners
+  - Sustained 98% on-time delivery across MENA market
+- **Career Break** (APR 2017 - MAR 2020) - Relocated to Latin America for cultural immersion and Spanish-language immersion
+- **Corporate Logistics & Mobilization Coordinator** (JAN 2015 - APR 2017) - **Eni North Africa** (Tripoli, Libya)
 
 ### Technical Skills
-- **Primary:** [YOUR_PRIMARY_SKILLS]
-- **Secondary:** [YOUR_SECONDARY_SKILLS]
-- **Domain:** [YOUR_DOMAIN_EXPERTISE]
-- **Software:** [YOUR_TOOLS_AND_SOFTWARE]
+- **Primary:** Consultative selling, C-level/founder negotiation, strategic account planning, outbound prospecting (SDR/BDR)
+- **Secondary:** OT/IT convergence, Industry 4.0, digital transformation, cold-chain/supply chain operations
+- **Domain:** SaaS/IaaS/cloud infrastructure sales, MENA and Arabic-speaking market go-to-market
+- **Software:** Salesforce, LinkedIn Sales Navigator, ZoomInfo, Google Workspace
 
 ### Certifications
-<!-- List relevant certifications with dates -->
-- **[CERTIFICATION_NAME]** - [HOURS]h - completed [DATE]
+None currently listed.
 
 ### Publications
-<!-- List peer-reviewed publications, if any -->
-- [AUTHOR_LIST] ([YEAR]). [TITLE]. [JOURNAL].
+None.
 
 ### Awards
-<!-- List relevant awards, hackathons, competitions -->
-- [AWARD_NAME] - [EVENT] ([YEAR])
+- Top Performer (150% KPI) - Google Cloud (Q1 2025)
+- Best Product and Procedure Knowledge - Google Cloud (Q2 2025)
+- Sales Mentor Designation - Google Cloud (Q3 2025)
+- Top Performer (200% KPI) - Google Cloud (Q4 2025)
 
 ### Behavioral Profile
-<!-- Your behavioral assessment results (PI, DISC, Myers-Briggs, or self-assessment) -->
-- **[TRAIT_1]** - [DESCRIPTION]
-- **[TRAIT_2]** - [DESCRIPTION]
-- **Strengths:** [YOUR_STRENGTHS]
-- **Growth areas:** [YOUR_GROWTH_AREAS]
-- **Thrives in:** [YOUR_IDEAL_ENVIRONMENT]
+- **Fast, instinctive decision-maker** - moves quickly under ambiguity rather than over-analyzing
+- **Relationship-led, consultative seller** - builds trust and domain credibility before pushing for close
+- **Strengths:** Prefers structured, high-velocity enterprise environments but is flexible on structure/chaos trade-offs when compensation, benefits, or brand prestige justify it
+- **Growth areas:** Prefers established process/playbooks over building from scratch
+- **Thrives in:** Structured but high-velocity sales orgs with visible recognition programs (leaderboards, mentor tracks, president's club)
 
 ### What Excites You
-<!-- What motivates you professionally -->
-- [PASSION_1]
-- [PASSION_2]
+- Consultative outbound prospecting into new or underserved markets, especially Arabic-speaking
+- C-level and founder conversations; structured, high-velocity sales motions with visible recognition
 
 ### Target Sectors
-<!-- Industries and companies you're targeting -->
-- [SECTOR_1]: [EXAMPLE_COMPANIES]
-- [SECTOR_2]: [EXAMPLE_COMPANIES]
+- Logtech / Supply chain SaaS: Flexport and competitors
+- Cloud infrastructure / Security / AI agents: Anthropic, Palo Alto Networks, and competitors
 
 ### Deal-breakers
-<!-- Hard constraints on job search -->
-- [DEALBREAKER_1]
-- [DEALBREAKER_2]
+- Companies with average employee tenure under 2 years (high-turnover signal)
+- Companies complicit in, or providing material support for, actions against the Palestinian people, or founded/funded by individuals with a public Zionist political stance
+- Any role requiring relocation outside Spain within the next 4 years
 
 ## Repo Structure
 - `cv/` - LaTeX CV variants (moderncv template, banking style)
