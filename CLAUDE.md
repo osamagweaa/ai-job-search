@@ -14,14 +14,16 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 - **Name:** Osamah Iqweeah
 - **Location:** Barcelona, Spain (not open to relocating outside Spain for the next 4 years; open to relocating to another Spanish city if relocation costs are covered; open to full remote only with a Spanish indefinite contract or 70K+ OTE)
 - **Languages:** Arabic (Native), English (Fluent), Spanish (Fluent)
-- **Status:** Employed - Strategic BDR at Google Cloud (via Teleperformance), open to new opportunities
-- **LinkedIn headline:** (not yet provided)
+- **Status:** Employed - SDR at Elastic (KSA enterprise market, since Sep 2026), open to new opportunities
+- **LinkedIn headline:** "SDR @ Elastic | Helping KSA Enterprises Master Search, Observability & Security | Challenger B2B Sales"
 
 ### Education
 - **Bachelor of E-Commerce** (2008-2011) - Tripoli University
 
 ### Professional Experience
-- **Strategic BDR (MENA Market)** (NOV 2024 - Present) - **Google Cloud (via Teleperformance)** (Barcelona, Spain)
+- **SDR (KSA Enterprise Market)** (SEP 2026 - Present) - **Elastic** (Barcelona, Spain, hybrid)
+  - Strategic pipeline generation and revenue growth across the Saudi Arabian enterprise market, partnering with Account Executives
+- **Strategic BDR (MENA Market)** (NOV 2024 - SEP 2026) - **Google Cloud (via Teleperformance)** (Barcelona, Spain)
   - Generated 200% of Q4 revenue goal targeting high-value infrastructure migrations
   - Outbound outreach for Digital Native SMBs, discovery through technical validation
   - Built AI-driven prospecting workflows, +40% pipeline efficiency
