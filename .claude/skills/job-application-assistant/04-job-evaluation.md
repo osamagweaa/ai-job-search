@@ -73,7 +73,7 @@ Does this role advance career goals and contain tasks that energize?
 - Non-task factors: company average tenure (a deal-breaker signal - see below), leadership style (coaching over controlling), degree of autonomy within a structured framework
 
 **Life situation alignment:** Consider personal constraints:
-- **Security**: Currently employed (Strategic BDR, Google Cloud via Teleperformance) and performing well (160% to target) - can afford to be selective, not searching out of urgency
+- **Security**: Currently employed (SDR at Elastic, KSA enterprise market, since Sep 2026; previously Strategic BDR at Google Cloud via Teleperformance at 160% to target) - can afford to be selective, not searching out of urgency. Short tenure at Elastic: weigh whether a move now is a clear step up (AE title, uncapped OTE)
 - **Flexibility**: Based in Barcelona; not open to relocating outside Spain for the next 4 years; open to relocating to another Spanish city if the employer covers relocation costs; open to full remote only with a Spanish indefinite contract or 70K+ OTE
 - **Professional development**: Seeking the AE title/track upgrade from BDR, with uncapped earning upside as the primary growth priority
 

@@ -5,10 +5,11 @@
 - **Location:** Barcelona, Spain
 - **Phone:** +34625420592
 - **Email:** osamagweaa@outlook.com
-- **LinkedIn:** (not yet provided - add when available)
+- **LinkedIn:** https://www.linkedin.com/in/osamagweaa/
+- **LinkedIn headline:** "SDR @ Elastic | Helping KSA Enterprises Master Search, Observability & Security | Challenger B2B Sales"
 - **GitHub:** N/A (non-technical/sales background)
 - **Languages:** Arabic (Native), English (Fluent), Spanish (Fluent)
-- **Status:** Employed - Strategic BDR at Google Cloud (via Teleperformance), open to new opportunities
+- **Status:** Employed - SDR at Elastic (KSA enterprise market, since Sep 2026), open to new opportunities
 - **Constraints:** Based in Barcelona; not open to relocating outside Spain for the next 4 years; open to relocating to another Spanish city if the employer covers relocation costs; open to full remote only with a Spanish indefinite contract or an OTE of 70K+
 
 ## Education
@@ -19,7 +20,11 @@
 
 ## Professional Experience
 
-### Strategic BDR (MENA Market) - Google Cloud (via Teleperformance) (NOV 2024 - Present)
+### SDR (KSA Enterprise Market) - Elastic (SEP 2026 - Present)
+Barcelona, Spain (hybrid)
+- Strategic pipeline generation and revenue growth across the Saudi Arabian enterprise market, partnering with Account Executives
+
+### Strategic BDR (MENA Market) - Google Cloud (via Teleperformance) (NOV 2024 - SEP 2026)
 Barcelona, Spain
 - Generated 200% of the Q4 revenue goal by targeting high-value infrastructure migrations
 - Manage outbound outreach motions for Digital Native SMBs, guiding founders from discovery through technical validation

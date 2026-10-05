@@ -50,13 +50,13 @@ Keep answers to 1-2 minutes. Be specific. End with what you learned or would do 
 ## Common Tough Questions
 
 ### "Why did you leave [previous company]?"
-> Central Fruit to Google Cloud was a deliberate pivot into tech after years in industrial/logistics operations, to build toward a cloud and AI-focused sales career with more upside. Currently at Google Cloud (via Teleperformance), performing at 160% to target - not leaving out of frustration, but looking for the next step: a full Account Executive role with uncapped OTE at a company solving problems in logtech, cloud infra, security, or AI.
+> Central Fruit to Google Cloud was a deliberate pivot into tech after years in industrial/logistics operations, to build toward a cloud and AI-focused sales career with more upside. Moved from Google Cloud (via Teleperformance, 160% to target) to Elastic in Sep 2026 [confirm reason for the move with the user before using]. Not leaving out of frustration, but looking for the next step: a full Account Executive role with uncapped OTE at a company solving problems in logtech, cloud infra, security, or AI.
 
 ### "There's a gap in your CV between 2017 and 2020."
 > That was a deliberate career break, not unemployment I fell into. Relocated to Latin America to reset, build fluent Spanish through immersion, and gain real cross-cultural range. It is directly useful now: sells naturally into Spanish-speaking markets and brings genuine adaptability to new markets, which shows up in results (fastest ramp to Top Performer status after returning to sales).
 
 ### "You don't have experience as a title-of-record Account Executive closing deals solo."
-> Fair, and worth being precise about: has run full-cycle ownership of a ~$12M portfolio at Central Fruit (an AE-titled role) and is currently driving 200% of quota as a BDR at Google Cloud, including the qualification and technical-validation stages of the cloud sales cycle. What is genuinely new is closing complex, multi-stakeholder SaaS/cloud deals independently end to end - happy to speak to how the discovery-to-close skills already proven would transfer, and eager to be evaluated on that specifically.
+> Fair, and worth being precise about: has run full-cycle ownership of a ~$12M portfolio at Central Fruit (an AE-titled role) and drove 200% of quota as a BDR at Google Cloud (now an SDR at Elastic), including the qualification and technical-validation stages of the cloud sales cycle. What is genuinely new is closing complex, multi-stakeholder SaaS/cloud deals independently end to end - happy to speak to how the discovery-to-close skills already proven would transfer, and eager to be evaluated on that specifically.
 
 ### "Where do you see yourself in 5 years?"
 > Established as a top-performing Account Executive (or beyond) at a logtech, cloud infrastructure, security, or AI company, ideally one with strong brand recognition, owning strategic accounts in the Arabic-speaking/MENA market where the bilingual background is a real differentiator, with earnings scaling directly with performance through uncapped OTE.
